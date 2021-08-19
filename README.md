@@ -5,27 +5,18 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the section depending on their device's screen size
-
 ### Screenshot
 
-![](./Social proof section.png)
+![Desktop View](./Social.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/manoj-jayapprakash/social-proof-FEM
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -40,4 +31,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@manojmj18](https://www.frontendmentor.io/profile/manojmj18)
-- Twitter - [@manoj_mj18](https://twitter.com/manoj_mj18)
