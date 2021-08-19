@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Spartan', sans-serif;
+  font-size: 15px;
+  color: hsl(303, 10%, 53%);
+}
+
+section {
+  padding: 1rem;
+}
+
+.content {
+  text-align: center;
+}
+
+.title {
+  margin: 1rem 3rem;
+  color: hsl(300, 43%, 22%);
+}
+
+.description {
+  line-height: 1.5;
+  padding: 0;
+}
+
+.ratings {
+  margin: 2rem 0;
+}
+
+.star-ratings {
+  background-color: hsl(300, 24%, 96%);
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.star-ratings__comments {
+  padding-top: 0.5rem;
+  font-weight: 700;
+  color: hsl(300, 43%, 22%);
+}
+
+.star-ratings,
+.customer-reviews {
+  margin: 1rem 0;
+  border-radius: 10px;
+}
+
+.customer-reviews {
+  background-color: hsl(300, 43%, 22%);
+  padding: 2rem;
+}
+
+.citation {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.user__image {
+  border-radius: 50%;
+  width: 50px;
+}
+
+.user__info {
+  margin: 2px 0;
+}
+
+.name {
+  font-size: 1rem;
+  color: hsl(0, 0%, 100%);
+}
+
+.verified {
+  font-size: 1rem;
+  color: hsl(333, 80%, 67%);
+  font-weight: 500;
+  margin-top: 2px;
+}
+
+.comments {
+  margin: 2rem 0 0 0;
+  line-height: 1.6;
+  font-weight: 500;
+  font-size: 0.8rem;
+  color: hsl(300, 24%, 96%);
+}
