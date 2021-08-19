@@ -17,7 +17,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: https://github.com/manoj-jayapprakash/social-proof-FEM
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://mjcreations-social-proof-fem.netlify.app/
 
 ## My process
 
