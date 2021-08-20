@@ -106,6 +106,7 @@ body {
     grid-template-columns: 1fr 1fr;
     background-image: url(./images/bg-pattern-top-desktop.svg),
       url(./images/bg-pattern-bottom-desktop.svg);
+    margin: 5rem auto;
   }
 
   .content {
